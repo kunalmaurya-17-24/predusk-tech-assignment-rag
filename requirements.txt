@@ -5,6 +5,7 @@ langchain-community
 langchain-cohere
 langchain-google-genai
 langchain-huggingface
+sentence-transformers
 langchain-pinecone
 
 # File Handling & PDF
