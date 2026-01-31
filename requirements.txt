@@ -12,7 +12,7 @@ pymupdf
 
 
 # Vector Store & Reranking
-pinecone-client
+pinecone
 cohere
 
 # UI & Secrets

@@ -14,7 +14,7 @@ dependencies = [
     "langchain-huggingface",
     "sentence-transformers",
     "langchain-pinecone",
-    "pinecone-client",
+    "pinecone",
     "streamlit",
     "pymupdf",
     "python-dotenv",
