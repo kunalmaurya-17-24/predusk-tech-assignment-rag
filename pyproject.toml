@@ -1,0 +1,23 @@
+[project]
+name = "predusk-technology"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "cohere",
+    "langchain",
+    "langchain-core",
+    "langchain-community",
+    "langchain-cohere",
+    "langchain-google-genai",
+    "langchain-huggingface",
+    "sentence-transformers",
+    "langchain-pinecone",
+    "pinecone-client",
+    "streamlit",
+    "pymupdf",
+    "python-dotenv",
+    "tiktoken",
+    "tokencost",
+]

@@ -1,0 +1,24 @@
+# Core Frameworks
+langchain
+langchain-core
+langchain-community
+langchain-cohere
+langchain-google-genai
+langchain-huggingface
+langchain-pinecone
+
+# File Handling & PDF
+pymupdf
+
+
+# Vector Store & Reranking
+pinecone-client
+cohere
+
+# UI & Secrets
+streamlit
+python-dotenv
+
+# Utilities & Token Counting
+tiktoken
+tokencost
